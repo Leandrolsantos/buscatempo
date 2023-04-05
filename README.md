@@ -1,8 +1,8 @@
-# Buscatempo - Aplicativo de Previsão do tempo
+# Buscatempo - Informativo de Clima
 
-![](./)
+![](./assets/img/telagifbuscatempo.gif)
 
-![](./)
+![](./assets/img/telabuscatempo.png)
 
 Deploy: (Em Breve)
 
