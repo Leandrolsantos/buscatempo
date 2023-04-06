@@ -1,22 +1,22 @@
 # Buscatempo - Informativo de Clima
 
-![](./)
-
 ![](./assets/img/telabuscatempo.png)
+
+![](./assets/img/telagifbuscatempo.gif)
 
 Deploy: (Em Breve)
 
 ## Sobre
 
-É um site que ao escrever o nome de sua cidade ele dará com detalhes a clima, temperatura, sensação térmmica, umidade do ar e horário em que o sol nasce e se põe.
+É um site que ao escrever o nome de sua cidade ele lhe dará com detalhes informações sobre o clima, temperatura, sensação térmmica, umidade do ar, velocidade do vento e horário em que o sol nasce e se põe.
 
 ### Objetivo
-
-Aprimorar meus conhecimentos de front-end. É mais um aplicativo de ajuda a ser incluída na sequência de ferramentas que venho desenvolvendo.
+a ser incluída nas
+Aprimorar meus conhecimentos de front-end. É mais um aplicativo de auxílio para o dia a dia que venho desenvolvendo.
 
 ### Desafio
 
-Mais uma vez entender como funciona o Javascript e desta vez aprimorando meus conhecimentos sobre API´s e neste caso um de previsão do tempo o OpenWeather (https://openweathermap.org/). 
+Mais uma vez entender como funciona o Javascript e desta vez aprimorando meus conhecimentos sobre API´s. Neste caso é um de previsão do tempo o OpenWeather (https://openweathermap.org/). 
 
 ### Conclusão
 
