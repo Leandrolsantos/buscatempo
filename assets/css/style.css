@@ -4,11 +4,13 @@
 }
 
 body {
-    background: #f3f4fb;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
     font-family: 'Righteous', cursive;
-    background: url('/assets/img/fundo.jpg') no-repeat;
+    background: url(/assets/img/fundo.jpg) no-repeat;
     background-size: cover;
-    min-height: 100vh;
 }
 
 .header, .temperature-details, .sunset-sunrise {
@@ -22,6 +24,16 @@ body {
     padding: 0 30px;
 }
 
+h1 {
+    text-align: center;
+    margin: 0 auto;
+    font-size: 44px;
+    color:aqua;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+    text-shadow: 2px 2px 4px black;
+}
+
 .header__city-search-bar {
     display: flex;
     justify-content: center;
@@ -31,19 +43,20 @@ body {
 
 .header__input {
     border: 3px solid black;
-    width: 100%;
+    width: 350px;
     height: 40px;
     font-size: 18px;
-    padding: 0 15px;
+    padding: 2px 15px;
     border-radius: 10px 0 0 10px;
     appearance: none;
     margin-right: -15px;
+    margin-top: 12px;
 }
 
 .header__button {
     cursor: pointer;
-    min-width: 50px;
-    min-height: 50px;
+    min-width: 46px;
+    min-height: 48px;
     border: 3px solid rgb(56, 55, 55);
     border-radius: 5px;
     background: #dec109;
@@ -52,7 +65,8 @@ body {
     align-items: center;
     justify-content: center;
     transition: 0.6s;
-    box-shadow: 2px 2px 4px black;         
+    box-shadow: 2px 2px 4px black;
+    margin-top: 10px;         
 }
 
 .header__button:hover {
@@ -77,7 +91,7 @@ body {
 
 .header-icon-button {
     margin: 0 auto;
-    width: 1rem;
+    width: 2rem;
 }
 
 .header__current-date{
@@ -130,9 +144,9 @@ body {
 }
 
 .current-temperature__current-temperature {
-    font-size: 27px;
+    font-size: 26px;
     font-weight: 500;
-    margin-top: 30px;
+    margin-top: 5px;
     margin-bottom: 18px;
     text-shadow: 2px 3px 4px rgba(0, 0, 0, 0.521);
     -webkit-text-stroke-width: 1.3px;
@@ -148,8 +162,8 @@ body {
     text-align: center;
     width: 27rem;
     border-radius: 60px 60px 20px 20px;
-    margin-top: 0px;
-    margin-bottom: -10rem;
+    margin-top: 0;
+    
 }
 
 .temperature-details {
@@ -213,4 +227,17 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px 4px rgba(0, 0, 0, 0.755);
     border: 1px solid rgb(14, 14, 14);
+}
+
+@media (max-width: 360px) {
+
+    body {
+        display: block;
+        width: 0 auto;
+        font-family: 'Righteous', cursive;
+        background: url(/assets/img/fundo.jpg) no-repeat;
+        background-size: cover;
+        background-position: bottom;
+    }
+    
 }
