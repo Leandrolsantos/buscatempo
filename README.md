@@ -1,6 +1,6 @@
 # Buscatempo - Informativo de Clima
 
-![](./assets/img/telabuscatempo.png)
+![](./assets/img/telabuscatempo2.png)
 
 ![](./assets/img/telagifbuscatempo.gif)
 
