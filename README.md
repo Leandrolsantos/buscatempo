@@ -11,8 +11,8 @@ Deploy: https://buscatempo-rho.vercel.app/
 É um site que ao escrever o nome de sua cidade ele lhe dará com detalhes informações sobre o clima, temperatura, sensação térmica, umidade do ar, velocidade do vento e horário em que o sol nasce e se põe.
 
 ### Objetivo
-a ser incluída nas
-Aprimorar meus conhecimentos de front-end. É mais um aplicativo de auxílio para o dia a dia que venho desenvolvendo.
+
+Aprimorar meus conhecimentos de front-end. É mais um aplicativo de ajuda a ser incluído nas ferramentas de auxílio para o dia a dia que venho desenvolvendo.
 
 ### Desafio
 
