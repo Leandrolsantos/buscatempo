@@ -229,15 +229,17 @@ h1 {
     border: 1px solid rgb(14, 14, 14);
 }
 
-@media (max-width: 360px) {
+@media screen (min-width: 320px) and (max-width: 900px) {
+
+    }
 
     body {
-        display: block;
-        width: 0 auto;
+        margin: 0 auto;
+        box-sizing: border-box;
+        width: 100vw;
         font-family: 'Righteous', cursive;
         background: url(/assets/img/fundo.jpg) no-repeat;
         background-size: cover;
-        background-position: bottom;
     }
     
 }
