@@ -4,7 +4,7 @@
 
 ![](./assets/img/telagifbuscatempo.gif)
 
-Deploy: (Em Breve)
+Deploy: https://buscatempo-rho.vercel.app/
 
 ## Sobre
 
