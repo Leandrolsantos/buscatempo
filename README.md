@@ -16,7 +16,7 @@ Aprimorar meus conhecimentos de front-end. É mais um aplicativo de auxílio par
 
 ### Desafio
 
-Mais uma vez entender como funciona o Javascript e desta vez aprimorando meus conhecimentos sobre API´s. Neste caso é um de previsão do tempo o OpenWeather (https://openweathermap.org/). 
+Mais uma vez entender como funciona o Javascript e desta vez aprimorando meus conhecimentos sobre API´s. Neste caso é um de previsão do tempo o OpenWeather (https://openweathermap.org/).
 
 ### Conclusão
 
